@@ -1,0 +1,46 @@
+{
+  "name": "jsdoc2vitepress",
+  "version": "1.0.0",
+  "description": "Generates vitepress API documentation from jsdoc annotated source code.",
+  "main": "lib/index.js",
+  "bin": {
+    "jsdoc2vitepress": "lib/index.js"
+  },
+  "scripts": {
+    "lint": "eslint --ext .ts,.js .",
+    "lint:fix": "eslint --fix --ext .ts,.js .",
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": [
+    "jsdoc",
+    "vitepress",
+    "api",
+    "doc",
+    "annotated",
+    "markdowm"
+  ],
+  "author": "luciozhang",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/preset-env": "^7.20.2",
+    "@babel/preset-typescript": "^7.18.6",
+    "@types/fs-extra": "^9.0.13",
+    "@types/git-clone": "^0.2.0",
+    "@types/jsdoc-to-markdown": "^7.0.3",
+    "@types/node": "^18.11.9",
+    "@typescript-eslint/eslint-plugin": "^5.10.0",
+    "@typescript-eslint/parser": "^5.10.0",
+    "babel-jest": "^29.3.1",
+    "eslint-config-tencent": "^1.0.4",
+    "jest": "^29.3.1",
+    "jsdoc-babel": "^0.5.0"
+  },
+  "dependencies": {
+    "commander": "^9.4.1",
+    "fs-extra": "^10.1.0",
+    "git-clone": "^0.2.0",
+    "jsdoc-to-markdown": "^7.1.1",
+    "ora": "^5.4.1"
+  }
+}

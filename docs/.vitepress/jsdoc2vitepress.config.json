@@ -1,0 +1,9 @@
+{
+  "markdownDirs": [
+    {
+      "root": "./src",
+      "output": "./docs/02.工具库",
+      "ingoreList": []
+    }
+  ]
+}
