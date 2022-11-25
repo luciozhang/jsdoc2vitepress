@@ -26,7 +26,7 @@ export const jsdocToMd = async () => {
     }));
     loading.succeed('Generates Markdown success');
   } catch (error) {
-    loading.fail(`Generates Markdown fail${error}`);
+    loading.fail(`Generates Markdown fail: ${error}`);
   }
 };
 
@@ -64,7 +64,7 @@ const makeMarkDownDoc = async (sourceName: string, sourceRootPath: string, outpu
       loading.succeed('Generates Markdown success in ' + `${outputPath}/${outputName}.md`);
     }
   } catch (error) {
-    loading.fail(`Generates Markdown fail for ${sourcePath}`);
+    loading.fail(`Generates Markdown fail for ${sourcePath}: ${error}`);
   }
 };
 
