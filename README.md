@@ -74,7 +74,7 @@ JS/TS annotated source code -> Markdown ->VitePress website
 
 ![总体流程](https://blog-1256819047.cos.ap-guangzhou.myqcloud.com/img/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_512aa61a-aab5-48bc-8676-f01bf9430605.png)
 
-See More detail in [注释生成文档太难看？试试用注释生成vitepress文档]()
+See More detail in [注释生成文档太难看？试试用注释生成vitepress文档](https://juejin.cn/post/7169855361196195853)
 
 
 # License
