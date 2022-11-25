@@ -1,1 +1,1 @@
-{"version":3,"file":"md-to-vitepress.js","sourceRoot":"","sources":["../src/md-to-vitepress.ts"],"names":[],"mappings":""}
+{"version":3,"file":"md-to-vitepress.js","sourceRoot":"","sources":["../src/md-to-vitepress.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;AAAA,sDAA4B;AAC5B;;;GAGG;AAEH;;;GAGG;AACI,MAAM,cAAc,GAAG,GAAS,EAAE;IACvC,iBAAK,CAAC,IAAI,CAAC,uCAAuC,CAAC,CAAC;AACtD,CAAC,CAAA,CAAC;AAFW,QAAA,cAAc,kBAEzB;AAEF;;;GAGG;AACI,MAAM,cAAc,GAAG,GAAS,EAAE;IACvC,iBAAK,CAAC,IAAI,CAAC,wCAAwC,CAAC,CAAC;AACvD,CAAC,CAAA,CAAC;AAFW,QAAA,cAAc,kBAEzB"}
