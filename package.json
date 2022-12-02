@@ -1,6 +1,6 @@
 {
   "name": "jsdoc2vitepress",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Generates vitepress API documentation from jsdoc annotated source code.",
   "repository": "https://github.com/luciozhang/jsdoc2vitepress",
   "main": "lib/index.js",
@@ -50,6 +50,6 @@
     "ora": "^5.4.1",
     "shelljs": "^0.8.5",
     "vitepress": "^1.0.0-draft.8",
-    "vitepress-plugin-autobar": "^1.0.5"
+    "vitepress-plugin-autobar": "^1.0.7"
   }
 }
